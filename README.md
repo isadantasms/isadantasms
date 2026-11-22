@@ -4,9 +4,9 @@
 
 **Undergraduate Researcher in Computer Vision & Explainable AI | Computing Student @ UFU**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@dominio.com)
-[![Lattes](https://img.shields.io/badge/Currículo_Lattes-003366?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/SEU-LATTES)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabela-dantas-de-moraes-686201281)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabeladantasms@ufu.br)
+[![Lattes](https://img.shields.io/badge/Currículo_Lattes-003366?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/SEU-NUMERO-LATTES)
 
 </div>
 
@@ -29,10 +29,10 @@ Currently, my work spans scientific research, software engineering, and tech edu
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🧠 Medical Imaging & XAI Pipeline** | Deep learning pipeline for brain tumor and meningioma segmentation/classification using Knowledge Distillation (`ConvNeXt-Atto`, `SegFormer`) and `LIME` for model interpretability. | `Python` `PyTorch` `XAI` `Computer Vision` |
-| **🔥 AstroFire 3D *(NASA Space Apps 2026)*** | Neural network and backend architecture built with team *21 Pyro Rangers* for the *"Fire in Freefall"* challenge, achieving **94.94% model accuracy** in microgravity fire behavior prediction. | `Python` `Deep Learning` `REST API` `Vercel` |
-| **🌱 Computer Vision Foundations** | Structured portfolio documenting computer vision workflows, feature extraction, and botanical/flower classification labs aimed at agricultural and biological applications. | `Python` `OpenCV` `PyTorch` `Jupyter` |
-| **⚔️ Torre do Barão** | Object-oriented RPG game featuring turn-based combat interfaces, elemental mechanics, and custom exception handling. | `Java` `OOP` `Software Design` |
+| **🧠 [Medical Imaging & XAI Pipeline](https://github.com/isadantasms/edge-meningioma-segmentation)** | Deep learning pipeline for brain tumor and meningioma segmentation/classification using Knowledge Distillation (`ConvNeXt-Atto`, `SegFormer`) and `LIME` for model interpretability. | `Python` `PyTorch` `XAI` `Computer Vision` |
+| **🔥 [AstroFire 3D (NASA Space Apps 2026)](https://github.com/isadantasms/hackathon-2026-demo)** | Neural network and backend architecture built with team *21 Pyro Rangers* for the *"Fire in Freefall"* challenge, achieving **94.94% model accuracy** in microgravity fire behavior prediction. | `Python` `Deep Learning` `REST API` `Vercel` |
+| **🌱 [Computer Vision Foundations](https://github.com/isadantasms/LIPAI-Onboarding)** | Structured portfolio documenting computer vision workflows, feature extraction, and botanical/flower classification labs aimed at agricultural and biological applications. | `Python` `OpenCV` `PyTorch` `Jupyter` |
+| **⚔️ [Torre do Barão](https://github.com/isadantasms/rpg-poo-java)** | Object-oriented RPG game featuring turn-based combat interfaces, elemental mechanics, and custom exception handling. | `Java` `OOP` `Software Design` |
 
 ---
 
@@ -68,6 +68,6 @@ Currently, my work spans scientific research, software engineering, and tech edu
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=isadantasms&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadantasms&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
