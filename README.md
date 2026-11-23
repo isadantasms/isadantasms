@@ -21,7 +21,7 @@ Currently, my work spans scientific research, software engineering, and tech edu
 * 🔬 **AI Researcher @ LIPAI (UFU):** Conducting undergraduate research (*Iniciação Científica*) on **Computer Vision**, **Knowledge Distillation**, and **Explainable AI (XAI)** applied to medical imaging (semantic segmentation and classification of brain tumors).
 * 🎓 **PET-SI Member:** Active member of the Tutorial Education Program in Information Systems, leading academic mentoring initiatives, organizing university-wide tech events, and managing digital outreach for cultural extension projects.
 * 👩‍🏫 **Programming Instructor:** Teaching algorithmic logic, **C++**, and **Scratch** to middle and high school students (ages 12–16) through inclusive, gamified, and accessible methodologies (such as BearHug, Tech Kids, and Instituto Educação UberHub).
-* 🎻 **Beyond the Terminal:** When I'm not training neural networks or debugging Java code, you can find me practicing the **violin** and **trombone**, reading, or designing RPG-inspired coding challenges.
+* 🎻 **Beyond the Terminal:** When I'm not training neural networks or debugging Java code, you can find me practicing the **violin**, reading, or designing RPG-inspired coding challenges.
 
 ---
 
