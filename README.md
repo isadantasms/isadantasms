@@ -30,7 +30,7 @@ Currently, my work spans scientific research, software engineering, and tech edu
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **🧠 [Medical Imaging & XAI Pipeline](https://github.com/isadantasms/edge-meningioma-segmentation)** | Deep learning pipeline for brain tumor and meningioma segmentation/classification using Knowledge Distillation (`ConvNeXt-Atto`, `SegFormer`) and `LIME` for model interpretability. | `Python` `PyTorch` `XAI` `Computer Vision` |
-| **🔥 [AstroFire 3D (NASA Space Apps 2026)](https://github.com/isadantasms/hackathon-2026-demo)** | Neural network and backend architecture built with team *21 Pyro Rangers* for the *"Fire in Freefall"* challenge, achieving **94.94% model accuracy** in microgravity fire behavior prediction. | `Python` `Deep Learning` `REST API` `Vercel` |
+| **🔥 [AstroFire 3D (NASA Space Apps 2026)](https://github.com/isadantasms/AstroFire-3D-hackathon)** | Neural network and backend architecture built with team *21 Pyro Rangers* for the *"Fire in Freefall"* challenge, achieving **94.94% model accuracy** in microgravity fire behavior prediction. | `Python` `Deep Learning` `REST API` `Vercel` |
 | **🌱 [Computer Vision Foundations](https://github.com/isadantasms/LIPAI-Onboarding)** | Structured portfolio documenting computer vision workflows, feature extraction, and botanical/flower classification labs aimed at agricultural and biological applications. | `Python` `OpenCV` `PyTorch` `Jupyter` |
 | **⚔️ [Torre do Barão](https://github.com/isadantasms/rpg-poo-java)** | Object-oriented RPG game featuring turn-based combat interfaces, elemental mechanics, and custom exception handling. | `Java` `OOP` `Software Design` |
 
