@@ -68,6 +68,6 @@ Currently, my work spans scientific research, software engineering, and tech edu
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=isadantasms&show_icons=true&theme=tokyonight" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=isadantasms&theme=tokyonight&hide_border=false" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadantasms&layout=compact&langs_count=6&theme=tokyonight" />
 </div>
