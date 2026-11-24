@@ -14,7 +14,7 @@
 
 ### 🧬 About Me
 
-I am a Computing student at the **Federal University of Uberlândia (FACOM - UFU)**, passionate about bridging the gap between deep learning research and high-impact real-world applications—particularly in **Healthcare (HealthTech)** and **Agriculture (AgriTech)**. 
+I am a Computing student at the **Federal University of Uberlândia (FACOM - UFU)**, passionate about bridging the gap between deep learning research and high-impact real-world applications — particularly in **Healthcare (HealthTech)** and **Agriculture (AgriTech)**. 
 
 Currently, my work spans scientific research, software engineering, and tech education:
 
