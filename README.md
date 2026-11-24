@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabela-dantas-de-moraes-686201281)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabeladantasms@ufu.br)
-[![Lattes](https://img.shields.io/badge/Currículo_Lattes-003366?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/SEU-NUMERO-LATTES)
+[![Lattes](https://img.shields.io/badge/Currículo_Lattes-003366?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/5516654282603636)
 
 </div>
 
